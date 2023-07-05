@@ -2,6 +2,8 @@
 node_modules
 /dist
 HOW-TO-USE.pdf
+app.css
+learning-resource.css
 
 # local env files
 .env.local
